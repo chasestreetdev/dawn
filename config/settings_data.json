@@ -1,12 +1,12 @@
 {
   "current": {
-    "colors_solid_button_labels": "#efecec",
-    "colors_accent_1": "#2a332f",
-    "colors_accent_2": "#476154",
+    "colors_solid_button_labels": "#fff",
+    "colors_accent_1": "#774249",
+    "colors_accent_2": "#406363",
     "colors_text": "#1c1a1a",
-    "colors_outline_button_labels": "#7b8382",
-    "colors_background_1": "#efecec",
-    "colors_background_2": "#c1bcae",
+    "colors_outline_button_labels": "#774249",
+    "colors_background_1": "#fff",
+    "colors_background_2": "#f2e8d8",
     "type_header_font": "americana_n4",
     "type_body_font": "quattrocento_sans_n4",
     "social_twitter_link": "https:\/\/twitter.com\/chasestreetae",

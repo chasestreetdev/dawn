@@ -9,6 +9,8 @@
     "colors_background_2": "#f2e8d8",
     "type_header_font": "poppins_n5",
     "type_body_font": "sans-serif",
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "outline-button",
     "page_width": "1200",
     "social_twitter_link": "https:\/\/twitter.com\/chasestreetae",

@@ -30,9 +30,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
+              "text": "COVID-19 Operating Status",
+              "color_scheme": "background-2",
+              "link": "shopify:\/\/blogs\/news\/covid19"
             }
           }
         },
